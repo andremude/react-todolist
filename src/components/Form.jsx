@@ -19,8 +19,8 @@ const Form = (props) => {
       completed: false
     };
 
-    props.onSubmit(newTask)
-    setInput('')
+    props.onSubmit(newTask);
+    setInput('');
   }
 
   return (
@@ -33,6 +33,7 @@ const Form = (props) => {
         placeholder='Enter a task'
         name='text'
         onChange={handleChange}
+        value={input}
         />
       <button className='task-btn' onClick={handleSubmit}>Add Task</button>
     </form>
