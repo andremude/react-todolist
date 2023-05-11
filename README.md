@@ -2,6 +2,22 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Setup
+
+Clone project: `git@github.com:andremude/react-todolist.git`
+
+run  `npm install`
+
+## Dependencies
+
+<ul>
+  <li>"react": "^18.0.0"</li>
+  <li>"react-dom": "^18.0.0"</li>
+  <li>"react-icons": "^4.3.1"</li>
+  <li>"react-scripts": "5.0.0"</li>
+  <li>"uuid": "^8.3.2"</li>
+</ul>
+
 ## Available Scripts
 
 In the project directory, you can run:
@@ -39,44 +55,14 @@ Instead, it will copy all the configuration files and the transitive dependencie
 
 You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
 
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
-
-# Initial state
+## Initial state
 ![react-todolist1](https://user-images.githubusercontent.com/71613801/162206890-722f1d41-ab85-495e-9ebe-ba81c16b8d04.jpg)
 
-# Adding tasks 
+## Adding tasks
 ![react-todolist2](https://user-images.githubusercontent.com/71613801/162206894-eed6ec2f-d33a-4e15-a44a-262a52f01a71.jpg)
 
-# Marking tasks as completed
+## Marking tasks as completed
 ![react-todolist3](https://user-images.githubusercontent.com/71613801/162206897-51220a2a-08cb-49c3-9914-acfc5ae3c0e8.jpg)
 
-# Deleting completed tasks
+## Deleting completed tasks
 ![react-todolist4](https://user-images.githubusercontent.com/71613801/162206900-d327afd0-ca03-4175-8f6f-70627a2e5cf3.jpg)
